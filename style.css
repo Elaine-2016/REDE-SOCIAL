@@ -38,7 +38,7 @@ body{
 }
 
 .left{
-  background-image: url("assets/main-foto.png");
+  background-image: url("imagens/main-foto.png");
   background-size: 450px;
   background-repeat: no-repeat;
   background-position: center;
